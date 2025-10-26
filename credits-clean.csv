@@ -475,7 +475,7 @@ Case_no,checking_status,credit_history,purpose,credit_amount,saving_status,perso
 474,no checking,existing paid,retraining,1238,no known savings,male single,36,high qualif/self emp/mgmt,good
 475,0<=X<200,critical/other existing credit,radio/tv,1245,<100,male mar/wid,33,skilled,bad
 476,<0,no credits/all paid,furniture/equipment,3114,<100,female div/dep/mar,26,skilled,bad
-477,no checking,existing paid,used car,2569,500<=X<1000,male single,1,skilled,good
+477,no checking,existing paid,used car,2569,500<=X<1000,male single,19,skilled,good
 478,>=200,existing paid,radio/tv,5152,<100,male single,25,skilled,good
 479,0<=X<200,existing paid,business,1037,100<=X<500,male single,39,unskilled resident,good
 480,<0,critical/other existing credit,furniture/equipment,1478,<100,male single,44,skilled,good
@@ -667,7 +667,7 @@ Case_no,checking_status,credit_history,purpose,credit_amount,saving_status,perso
 666,no checking,critical/other existing credit,other,6314,<100,male single,27,high qualif/self emp/mgmt,good
 667,0<=X<200,all paid,furniture/equipment,3496,>=1000,male single,34,skilled,good
 668,no checking,all paid,business,3609,<100,female div/dep/mar,27,skilled,good
-669,<0,critical/other existing credit,new car,48.43,<100,male single,43,skilled,bad
+669,<0,critical/other existing credit,new car,48,<100,male single,43,skilled,bad
 670,>=200,critical/other existing credit,radio/tv,3017,<100,male single,47,skilled,good
 671,no checking,critical/other existing credit,business,4139,100<=X<500,male single,27,unskilled resident,good
 672,no checking,existing paid,business,5742,100<=X<500,male single,31,skilled,good
@@ -760,7 +760,7 @@ Case_no,checking_status,credit_history,purpose,credit_amount,saving_status,perso
 759,no checking,existing paid,new car,1393,<100,male single,31,skilled,good
 760,<0,critical/other existing credit,new car,691,<100,male single,35,skilled,bad
 761,no checking,critical/other existing credit,new car,5045,no known savings,female div/dep/mar,59,skilled,good
-762,<0,critical/other existing credit,furniture/equipment,2124,<100,female div/dep/mar,1,skilled,bad
+762,<0,critical/other existing credit,furniture/equipment,2124,<100,female div/dep/mar,19,skilled,bad
 763,<0,existing paid,radio/tv,2214,<100,male single,24,unskilled resident,good
 764,no checking,critical/other existing credit,new car,12680,no known savings,male single,30,high qualif/self emp/mgmt,bad
 765,no checking,critical/other existing credit,new car,2463,100<=X<500,male mar/wid,27,skilled,good
@@ -884,7 +884,7 @@ Case_no,checking_status,credit_history,purpose,credit_amount,saving_status,perso
 883,0<=X<200,critical/other existing credit,new car,2181,no known savings,male single,36,skilled,good
 884,no checking,critical/other existing credit,radio/tv,1098,<100,female div/dep/mar,65,unemp/unskilled non res,good
 885,0<=X<200,existing paid,furniture/equipment,4057,<100,male div/sep,43,skilled,bad
-886,<0,existing paid,education,7.999,<100,female div/dep/mar,53,skilled,bad
+886,<0,existing paid,education,7999,<100,female div/dep/mar,53,skilled,bad
 887,0<=X<200,critical/other existing credit,business,2825,no known savings,male single,34,skilled,good
 888,0<=X<200,existing paid,business,15672,<100,male single,23,skilled,bad
 889,no checking,critical/other existing credit,new car,6614,<100,male single,34,high qualif/self emp/mgmt,good
